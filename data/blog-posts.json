@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Jetpack Compose in 2026: The Complete Guide",
+      "slug": "jetpack-compose-2026-guide",
+      "category": "Android Development",
+      "date": "2026-04-10",
+      "readTime": 8,
+      "excerpt": "Discover the latest Jetpack Compose features, best practices, and patterns that will define Android development in 2026.",
+      "tags": ["Android", "Compose", "Kotlin"],
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778795800/2024119_12_sqhcat.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Building AI-Powered Apps with Claude API",
+      "slug": "ai-powered-apps-claude-api",
+      "category": "AI & ML",
+      "date": "2026-03-28",
+      "readTime": 12,
+      "excerpt": "Learn how to integrate Claude API into your mobile app to add intelligent features like chat, translation, and content generation.",
+      "tags": ["AI", "Claude", "Machine Learning"],
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778795856/copilot_image_1778795675037_heh9xk.png"
+    },
+    {
+      "id": 3,
+      "title": "The 2026 Android Developer Roadmap",
+      "slug": "android-developer-roadmap-2026",
+      "category": "Career",
+      "date": "2026-03-15",
+      "readTime": 10,
+      "excerpt": "From learning Kotlin to mastering AI integration - your complete roadmap to becoming a top Android developer in 2026.",
+      "tags": ["Career", "Roadmap", "Developer"],
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778795800/2024119_18_syk2ou.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Secure Your Android App: Best Practices",
+      "slug": "secure-android-app-best-practices",
+      "category": "Security",
+      "date": "2026-02-25",
+      "readTime": 7,
+      "excerpt": "Critical security measures every Android developer should implement to protect their apps and users.",
+      "tags": ["Security", "Android", "Best Practices"],
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778795800/2024119_20_b94fen.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Building a POS System from Scratch",
+      "slug": "building-pos-system",
+      "category": "Full Stack",
+      "date": "2026-02-10",
+      "readTime": 15,
+      "excerpt": "How I built a production-ready POS system with offline support, AI analytics, and multi-user management.",
+      "tags": ["POS", "Full Stack", "Architecture"],
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778795822/preview_dzhqvv.webp"
+    }
+  ]
+}
