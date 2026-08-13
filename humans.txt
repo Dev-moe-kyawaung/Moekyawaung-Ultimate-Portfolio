@@ -1,0 +1,53 @@
+# ─────────────────────────────────────────────
+# OmniSphere Ultimate - humans.txt
+# ─────────────────────────────────────────────
+
+## TEAM
+Moe Kyaw Aung (Moe)
+- Role: Senior Android Developer, Portfolio Creator
+- Location: Bangkok, Thailand / Tachileik, Myanmar
+- Email: moekyawaung@technologist.com
+- Phone: +95 9 889 000 889
+
+## THANKS TO
+- Three.js for 3D graphics
+- Particle.js for background effects
+- GitHub Pages for hosting
+- Gravatar for avatar service
+- All open-source contributors
+
+## TECHNOLOGY
+- Primary: HTML5, CSS3, JavaScript ES6+
+- 3D: Three.js, WebGL
+- Animations: CSS3, JavaScript
+- Charts: Chart.js
+- Maps: Google Maps API
+- Email: FormSubmit.co
+- Icons: Font Awesome, SVG
+
+## SITE STATS
+- Sections: 30
+- Pages: 25
+- Lines of Code: 50,000+
+- Creation Date: 2026-01-01
+- Last Updated: 2026-04-15
+
+## DESIGN
+- Modern, holographic, futuristic
+- Holographic cyan (#00f0ff)
+- Premium purple (#9b5cf6)
+- Luxurious gold (#c9a84c)
+- Dark theme (#0a0a0f)
+
+## TRANSLATIONS
+- English
+- Burmese (မြန်မာ)
+- Thai (ไทย)
+
+## FICTIONAL PORTFOLIO
+This is a portfolio website for demonstration purposes.
+The content is fictional and created for showcasing web development skills.
+
+# ─────────────────────────────────────────────
+# @developer @designer @coder
+# ─────────────────────────────────────────────
