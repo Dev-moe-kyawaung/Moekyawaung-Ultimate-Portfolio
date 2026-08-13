@@ -1,0 +1,61 @@
+# OmniSphere Ultimate robots.txt
+# https://dev-moe-kyawaung.github.io/
+
+# Allow all major engines
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+# Specific user agents
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0.5
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: googlebot-image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /assets/videos/
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: Facebot
+Allow: /
+
+# Disallow rules
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /cache/
+Disallow: /config/
+
+# Allow sitemaps
+Sitemap: https://dev-moe-kyawaung.github.io/sitemap.xml
+Sitemap: https://dev-moe-kyawaung.github.io/sitemap-index.xml
+
+# Host
+Host: https://dev-moe-kyawaung.github.io
+
+# Crawl settings
+# Googlebot avoids crawling too much content daily
+# You can specify crawl-delay in milliseconds
