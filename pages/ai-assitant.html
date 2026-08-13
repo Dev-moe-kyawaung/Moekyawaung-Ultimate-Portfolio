@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Assistant | Moe Kyaw Aung - OmniSphere Ultimate</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Chat with MKA's intelligent AI Assistant to learn about Moe's skills, projects, availability, and more.">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="AI Assistant - Moe Kyaw Aung">
+    <meta property="og:description" content="Cross-platform AI assistant trained on Moe's professional experience.">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/components.css">
+</head>
+<body>
+    <!-- Custom Cursor -->
+    <div class="custom-cursor"></div>
+    <div class="custom-cursor-ring"></div>
+
+    <!-- AI Assistant Full Page -->
+    <div class="ai-page">
+        <div class="ai-page-container">
+            <!-- Header -->
+            <header class="ai-page-header">
+                <div class="ai-brand">
+                    <span class="ai-brand-icon">🤖</span>
+                    <div>
+                        <h1 class="ai-brand-title">MKA AI Assistant</h1>
+                        <span class="ai-brand-status">Online</span>
+                    </div>
+                </div>
+                <button class="ai-back-btn" onclick="history.back()">← Back</button>
+            </header>
+
+            <!-- Main Chat -->
+            <div class="ai-chat-container">
+                <div class="ai-chat-messages" id="chat-messages">
+                    <!-- Welcome Message -->
+                    <div class="message assistant-message">
+                        <div class="message-avatar">🤖</div>
+                        <div class="message-bubble">
+                            <p>Hello! I'm MKA's intelligent assistant.</p>
+                            <p>I can help you with:</p>
+                            <ul>
+                                <li>💼 Information about Moe's projects</li>
+                                <li>🛠️ Technical skills overview</li>
+                                <li>📅 Checking availability</li>
+                                <li>💰 Getting price estimates</li>
+                                <li>📞 Scheduling a call</li>
+                            </ul>
+                            <p>What would you like to know?</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Quick Suggestions -->
+                <div class="ai-suggestions">
+                    <button class="suggestion-chip" data-prompt="What projects have you built?">💼 Projects</button>
+                    <button class="suggestion-chip" data-prompt="What are your main skills?">🛠️ Skills</button>
+                    <button class="suggestion-chip" data-prompt="Are you available for freelance?">📅 Availability</button>
+                    <button class="suggestion-chip" data-prompt="What are your rates?">💰 Rates</button>
+                    <button class="suggestion-chip" data-prompt="Can I see your GitHub?">🐙 GitHub</button>
+                </div>
+
+                <!-- Input -->
+                <div class="ai-input-area">
+                    <input type="text" id="ai-input" placeholder="Type your question..." autocomplete="off">
+                    <button id="ai-send-btn">
+                        <svg viewBox="0 0 24 24" width="24" height="24">
+                            <path fill="currentColor" d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                        </svg>
+                    </button>
+                    <button id="ai-voice-btn" aria-label="Voice input">
+                        <svg viewBox="0 0 24 24" width="20" height="20">
+                            <path fill="currentColor" d="M12 14a3 3 0 003-3V5a3 3 0 00-6 0v6a3 3 0 003 3zm5-3a5 5 0 01-10 0H5a7 7 0 006 6.92V21h2v-4.08A7 7 0 0019 11h-2z"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/core/main.js"></script>
+    <script src="../js/features/ai-assistant.js"></script>
+    <script src="../js/features/cursor.js"></script>
+</body>
+</html>
