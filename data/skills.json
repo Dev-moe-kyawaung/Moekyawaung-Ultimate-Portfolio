@@ -1,0 +1,121 @@
+{
+  "skillCategories": [
+    {
+      "id": "mobile",
+      "icon": "📱",
+      "title": "Mobile Development",
+      "skills": [
+        {
+          "name": "Kotlin",
+          "icon": "☕",
+          "percentage": 98,
+          "description": "Expert level with coroutines, Flow, and extension functions"
+        },
+        {
+          "name": "Jetpack Compose",
+          "icon": "🖥️",
+          "percentage": 95,
+          "description": "Modern UI toolkit with Material 3 design"
+        },
+        {
+          "name": "Java",
+          "icon": "🆎",
+          "percentage": 85,
+          "description": "Enterprise android development with legacy code support"
+        },
+        {
+          "name": "MVVM/MVI",
+          "icon": "🏗️",
+          "percentage": 93,
+          "description": "Clean architecture with unidirectional data flow"
+        },
+        {
+          "name": "Room Database",
+          "icon": "🗄️",
+          "percentage": 90,
+          "description": "SQLite ORM with migrations and relationships"
+        },
+        {
+          "name": "Firebase",
+          "icon": "🔥",
+          "percentage": 92,
+          "description": "Auth, Firestore, Messaging, Crashlytics"
+        },
+        {
+          "name": "Hilt/Dagger",
+          "icon": "🗡️",
+          "percentage": 88,
+          "description": "Dependency injection with compile-time safety"
+        },
+        {
+          "name": "Testing",
+          "icon": "🧪",
+          "percentage": 85,
+          "description": "JUnit, Espresso, MockK, Robolectric"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "icon": "🤖",
+      "title": "AI & Machine Learning",
+      "skills": [
+        {
+          "name": "Claude API",
+          "icon": "🤖",
+          "percentage": 90,
+          "description": "LLM integration for intelligent features"
+        },
+        {
+          "name": "TensorFlow Lite",
+          "icon": "🧠",
+          "percentage": 85,
+          "description": "On-device ML for real-time inference"
+        },
+        {
+          "name": "ML Kit",
+          "icon": "🔍",
+          "percentage": 82,
+          "description": "Text, face, and object detection"
+        },
+        {
+          "name": "Python",
+          "icon": "🐍",
+          "percentage": 80,
+          "description": "ML models, data analysis, backends"
+        }
+      ]
+    },
+    {
+      "id": "web",
+      "icon": "🌐",
+      "title": "Web Development",
+      "skills": [
+        {
+          "name": "React",
+          "icon": "⚛️",
+          "percentage": 85,
+          "description": "Modern front-end with hooks"
+        },
+        {
+          "name": "Node.js",
+          "icon": "📦",
+          "percentage": 80,
+          "description": "Server-side JavaScript"
+        },
+        {
+          "name": "HTML5/CSS3",
+          "icon": "🎨",
+          "percentage": 98,
+          "description": "Semantic markup and advanced styling"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "📜",
+          "percentage": 92,
+          "description": "ES6+, Async/Await, modules"
+        }
+      ]
+    }
+  ]
+}
