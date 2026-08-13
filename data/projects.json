@@ -1,0 +1,125 @@
+{
+  "projects": [
+    {
+      "id": "pos-ultimate-pro-max",
+      "title": "POS Ultimate Pro Max",
+      "category": "POS System",
+      "description": "Enterprise-grade point of sale system with AI analytics, inventory management, and multi-user support.",
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778795829/copilot_image_1778795000722_okryxj.png",
+      "github": "https://github.com/moekyawaung-tech/POS-Ultimate-Pro-Max",
+      "live": "https://moekyawaung-tech.github.io/POS-Ultimate-Pro-Max/",
+      "tech": ["Kotlin", "Room DB", "AI Analytics", "Compose"],
+      "features": [
+        "Multi-user role management",
+        "Real-time inventory tracking",
+        "AI-powered sales predictions",
+        "Custom receipt printing",
+        "QR code payment integration",
+        "Offline mode support"
+      ],
+      "year": 2026,
+      "featured": true,
+      "popularity": 5
+    },
+    {
+      "id": "video-player",
+      "title": "Advanced Video Player",
+      "category": "Android App",
+      "description": "Feature-rich video player with seamless playback, subtitle support, and custom controls.",
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778747384/image-1_f6zlmk.jpg",
+      "github": "https://github.com/moekyawaung-tech/video-player",
+      "live": "https://moekyawaung-tech.github.io/video-player/",
+      "tech": ["Kotlin", "ExoPlayer", "Compose", "Room"],
+      "features": [
+        "4K UHD playback support",
+        "Subtitle synchronization",
+        "Gesture controls",
+        "Playlist management",
+        "Background playback",
+        "Chromecast support"
+      ],
+      "year": 2026,
+      "featured": true,
+      "popularity": 4.5
+    },
+    {
+      "id": "social-dashboard",
+      "title": "Social Dashboard",
+      "category": "Web App",
+      "description": "Comprehensive social media management dashboard with analytics and scheduling.",
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778747388/image-1_1_khsx9s.png",
+      "github": "https://github.com/moekyawaung-tech/social-dashboard",
+      "live": "https://moekyawaung-tech.github.io/social-dashboard/",
+      "tech": ["JavaScript", "React", "Firebase", "Charts.js"],
+      "features": [
+        "Multi-platform integration",
+        "Post scheduling",
+        "Performance analytics",
+        "Team collaboration",
+        "Smart content suggestions"
+      ],
+      "year": 2026,
+      "featured": true,
+      "popularity": 4.8
+    },
+    {
+      "id": "ai-translator",
+      "title": "Moekyaw Translator AI",
+      "category": "AI App",
+      "description": "AI-powered translation app with offline support and 50+ languages.",
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778747384/image_1_buwgls.png",
+      "github": "https://github.com/moekyawaung-tech/pwa-app",
+      "live": "https://moekyawaung-tech.github.io/pwa-app/",
+      "tech": ["Claude API", "TFLite", "Compose", "NLP"],
+      "features": [
+        "50+ language support",
+        "Offline translation",
+        "Camera translation",
+        "Voice recognition",
+        "Conversation mode",
+        "Cultural context awareness"
+      ],
+      "year": 2026,
+      "featured": true,
+      "popularity": 5
+    },
+    {
+      "id": "game-collection",
+      "title": "Game Collection",
+      "category": "Games",
+      "description": "Curated collection of addictive mini-games with high scores.",
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778795847/copilot_image_1778795115579_acfm5j.png",
+      "github": "https://github.com/moekyawaung-tech/game-collection",
+      "tech": ["Kotlin", "Canvas", "Compose Animations"],
+      "features": [
+        "20+ mini-games",
+        "Global leaderboards",
+        "Achievements system",
+        "Power-ups and bonuses",
+        "Share scores on social"
+      ],
+      "year": 2025,
+      "featured": false,
+      "popularity": 4.2
+    },
+    {
+      "id": "weather-app",
+      "title": "Weather App Pro",
+      "category": "Android App",
+      "description": "Beautiful weather app with 14-day forecasts and severe weather alerts.",
+      "image": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778747391/image_mplr5r.png",
+      "github": "https://github.com/moekyawaung-tech/Weather-app",
+      "tech": ["Kotlin", "Retrofit", "Material Design 3"],
+      "features": [
+        "Real-time updates",
+        "14-day forecast",
+        "Severe weather alerts",
+        "Multiple locations",
+        "Widget support"
+      ],
+      "year": 2025,
+      "featured": false,
+      "popularity": 4.6
+    }
+  ]
+}
